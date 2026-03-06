@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "DISH// - 沈丁花 [Official Live Video]",
+  "base_artist": "DISH//",
+  "createdAt": "2026-03-06T06:07:19.956387Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dreams (with Deep Dish)",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/01_Dreams_(with_Deep_Dish)_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dreams (with Deep Dish)",
+      "artist": "Stevie Nicks",
+      "has_synced": true,
+      "path": "select/02_Dreams_(with_Deep_Dish)_Stevie_Nicks.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Side Dish",
+      "artist": "Psapp",
+      "has_synced": false,
+      "path": "select/03_Side_Dish_Psapp.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Jumbo (Rob Rives and Francois K Main Dish)",
+      "artist": "Underworld",
+      "has_synced": false,
+      "path": "select/04_Jumbo_(Rob_Rives_and_Francois_K_Main_Dish)_Underworld.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Music in My Mind (Deep Dish Twister dub / El Niño UK extended mix)",
+      "artist": "Adam F",
+      "has_synced": false,
+      "path": "select/05_Music_in_My_Mind_(Deep_Dish_Twister_dub___El_Niño_UK_extended_mix)_Adam_F.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Music In My Mind (Deep Dish Twister Dub \u0000 El Nino UK Extended Mix)",
+      "artist": "Adam F",
+      "has_synced": false,
+      "path": "select/06_Music_In_My_Mind_(Deep_Dish_Twister_Dub_\u0000_El_Nino_UK_Extended_Mix)_Adam_F.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Under the Water (Deep Dish Underpressure remix)",
+      "artist": "Brother Brown feat. Frank'ee",
+      "has_synced": false,
+      "path": "select/07_Under_the_Water_(Deep_Dish_Underpressure_remix)_Brother_Brown_feat._Frank'ee.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Under The Water (Deep Dish Underpressure Remix)",
+      "artist": "Brother Brown",
+      "has_synced": false,
+      "path": "select/08_Under_The_Water_(Deep_Dish_Underpressure_Remix)_Brother_Brown.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wrong (Deep Dish Remix) [Edit]",
+      "artist": "Everything But the Girl",
+      "has_synced": false,
+      "path": "select/09_Wrong_(Deep_Dish_Remix)_[Edit]_Everything_But_the_Girl.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Hideaway (Deep Dish Radio Edit)",
+      "artist": "De'Lacy",
+      "has_synced": false,
+      "path": "select/10_Hideaway_(Deep_Dish_Radio_Edit)_De'Lacy.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "... A Dish Best Served Coldly",
+      "artist": "Type O Negative",
+      "has_synced": false,
+      "path": "select/11_..._A_Dish_Best_Served_Coldly_Type_O_Negative.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "…a Dish Best Served Coldly",
+      "artist": "Type O Negative",
+      "has_synced": false,
+      "path": "select/12_...a_Dish_Best_Served_Coldly_Type_O_Negative.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Music (Deep Dish Dot Com radio edit)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/13_Music_(Deep_Dish_Dot_Com_radio_edit)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Music (Deep Dish dot com remix)",
+      "artist": "Madonna",
+      "has_synced": false,
+      "path": "select/14_Music_(Deep_Dish_dot_com_remix)_Madonna.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Thank You (Deep Dish Vocal)",
+      "artist": "Dido",
+      "has_synced": false,
+      "path": "select/15_Thank_You_(Deep_Dish_Vocal)_Dido.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Stoned (Deep Dish Stoner Dub)",
+      "artist": "Dido",
+      "has_synced": false,
+      "path": "select/16_Stoned_(Deep_Dish_Stoner_Dub)_Dido.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Stoned (Deep Dish Remix Edit)",
+      "artist": "Dido",
+      "has_synced": false,
+      "path": "select/17_Stoned_(Deep_Dish_Remix_Edit)_Dido.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Stoned (Deep Dish Edit)",
+      "artist": "Dido",
+      "has_synced": false,
+      "path": "select/18_Stoned_(Deep_Dish_Edit)_Dido.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "沈丁花",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_沈丁花_DISH.txt"
+    }
+  ]
+}
